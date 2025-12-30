@@ -1,6 +1,6 @@
 Name:		python-canonicaljson
 Version:	2.0.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/c/canonicaljson/canonicaljson-%{version}.tar.gz
 Summary:	Canonical JSON
 URL:		https://pypi.org/project/canonicaljson/
